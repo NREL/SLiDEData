@@ -1,0 +1,52 @@
+region_code,state_code,region_desc,state_desc
+91,23,new england,me
+91,25,new england,ma
+91,33,new england,nh
+91,44,new england,ri
+91,50,new england,vt
+91,9,new england,ct
+92,10,mideast,de
+92,11,mideast,dc
+92,24,mideast,md
+92,34,mideast,nj
+92,36,mideast,ny
+92,42,mideast,pa
+93,17,great lakes,il
+93,18,great lakes,in
+93,26,great lakes,mi
+93,39,great lakes,oh
+93,55,great lakes,wi
+94,19,plains,ia
+94,20,plains,ks
+94,27,plains,mn
+94,29,plains,mo
+94,31,plains,ne
+94,38,plains,nd
+94,46,plains,sd
+95,1,southeast,al
+95,12,southeast,fl
+95,13,southeast,ga
+95,21,southeast,ky
+95,22,southeast,la
+95,28,southeast,ms
+95,37,southeast,nc
+95,45,southeast,sc
+95,47,southeast,tn
+95,5,southeast,ar
+95,51,southeast,va
+95,54,southeast,wv
+96,35,southwest,nm
+96,4,southwest,az
+96,40,southwest,ok
+96,48,southwest,tx
+97,16,rocky mountain,id
+97,30,rocky mountain,mt
+97,49,rocky mountain,ut
+97,56,rocky mountain,wy
+97,8,rocky mountain,co
+98,15,far west,hi
+98,2,far west,ak
+98,32,far west,nv
+98,41,far west,or
+98,53,far west,wa
+98,6,far west,ca

@@ -1,0 +1,4 @@
+hazmat_code,hazmat_desc
+H,Other HAZMAT
+N,Not HAZMAT
+P,Class 3 HAZMAT (flammable liquids)

@@ -1,0 +1,77 @@
+aggr_code,disagg_code,aggr_desc,disagg_desc
+cng,oil,Crude oil and natural gas extraction,Oil and natural gas extraction
+col,col_min,Coal mining,Coal mining
+con,con,Construction,Construction
+eint,agr,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Farms
+eint,che,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Chemical products
+eint,eec,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),"Electrical equipment, appliances, and components"
+eint,fbp,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Food and beverage and tobacco products
+eint,fmt,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Fabricated metal products
+eint,mch,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Machinery
+eint,min,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Other mining
+eint,mot,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),"Motor vehicles, bodies and trailers, and parts manufacturing"
+eint,nmp,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Nonmetallic mineral products
+eint,pla,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Plastics and rubber products
+eint,pmt,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Primary metals
+eint,ppd,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Paper products
+eint,pri,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Printing and related support activities
+eint,sec,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),"Securities, commodity contracts, and investments"
+eint,tex,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Textile mills and textile product mills
+eint,uti,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Other utilities
+eint,wpd,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Wood products
+ele,ele_uti,"Electric power generation, transmission, and distribution","Electricity generation, transmission, and distribution"
+oil,ref_pet,Petroleum refineries,Petroleum refineries
+omnf,alt,Other manufacturing sectors,Apparel and leather and allied products
+omnf,cep,Other manufacturing sectors,Computer and electronic products
+omnf,fof,Other manufacturing sectors,"Forestry, fishing, and related activities"
+omnf,fpd,Other manufacturing sectors,Furniture and related products
+omnf,mmf,Other manufacturing sectors,Miscellaneous manufacturing
+omnf,ote,Other manufacturing sectors,Other transportation equipment
+omnf,pet,Other manufacturing sectors,Other petroleum based manufacturing
+omnf,smn,Other manufacturing sectors,Support activities for mining
+osrv,adm,Other services,Administrative and support services
+osrv,amb,Other services,Ambulatory health care services
+osrv,amd,Other services,Accommodation
+osrv,art,Other services,"Performing arts, spectator sports, museums, and related activit"
+osrv,bnk,Other services,"Federal Reserve banks, credit intermediation, and related activ"
+osrv,brd,Other services,Broadcasting and telecommunications
+osrv,com,Other services,Computer systems design and related services
+osrv,dat,Other services,"Data processing, internet publishing, and other information"
+osrv,edu,Other services,Educational services
+osrv,fin,Other services,"Funds, trusts, and other financial vehicles"
+osrv,hos,Other services,Hospitals
+osrv,hou,Other services,Housing
+osrv,ins,Other services,Insurance carriers and related activities
+osrv,leg,Other services,Legal services
+osrv,man,Other services,Management of companies and enterprises
+osrv,mov,Other services,Motion picture and sound recording industries
+osrv,nrs,Other services,Nursing and residential care facilities
+osrv,ore,Other services,Other real estate
+osrv,osv,Other services,"Other services, except government"
+osrv,pub,Other services,"Publishing industries, except internet"
+osrv,rec,Other services,"Amusements, gambling, and recreation industries"
+osrv,res,Other services,Food services and drinking places
+osrv,rnt,Other services,Rental and leasing services and lessors of intangible assets
+osrv,soc,Other services,Social assistance
+osrv,tsv,Other services,"Miscellaneous professional, scientific, and technical services"
+osrv,wrh,Other services,Warehousing and storage
+osrv,wst,Other services,Waste management and remediation services
+roe,fbt,Rest of the economy,Food and beverage stores
+roe,fdd,Rest of the economy,Federal general government
+roe,fen,Rest of the economy,Federal government enterprises
+roe,fnd,Rest of the economy,Federal general government
+roe,gmt,Rest of the economy,General merchandise stores
+roe,mvt,Rest of the economy,Motor vehicle and parts dealers
+roe,oth,Rest of the economy,Noncomparable imports and rest-of-the-world adjustment
+roe,ott,Rest of the economy,Other retail
+roe,sle,Rest of the economy,State and local government enterprises
+roe,slg,Rest of the economy,State and local general government
+roe,use,Rest of the economy,"Scrap, used and secondhand goods"
+roe,wht,Rest of the economy,Wholesale trade
+trn,air,Transportation,Air transportation
+trn,grd,Transportation,Transit and ground passenger transportation
+trn,otr,Transportation,Other transportation and support activities
+trn,pip,Transportation,Pipeline transportation
+trn,trk,Transportation,Truck transportation
+trn,trn,Transportation,Rail transportation
+trn,wtt,Transportation,Water transportation

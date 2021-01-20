@@ -1,0 +1,410 @@
+s,desc
+abr_nmp,Abrasive product manufacturing
+acc_tsv,"Accounting, tax preparation, bookkeeping, and payroll services"
+acn_mch,"Air conditioning, refrigeration, and warm air heating equipment manufacturing"
+adh_che,Adhesive manufacturing
+adv_tsv,"Advertising, public relations, and related services"
+aec_cep,Automatic environmental control manufacturing
+aen_ote,Aircraft engine and engine parts manufacturing
+agc_mch,Air and gas compressor manufacturing
+agn_ins,"Insurance agencies, brokerages, and related activities"
+agt_art,Promoters of performing arts and sports and agents for public figures
+air_air,Air transportation
+air_mch,Industrial and commercial fan and blower and air purification equipment manufacturing
+air_ote,Aircraft manufacturing
+ala_pmt,Alumina refining and primary aluminum production
+ali_cep,Analytical laboratory instrument manufacturing
+alu_pmt,Aluminum product manufacturing from purchased aluminum
+amd_amd,Accommodation
+amn_fmt,"Ammunition, arms, ordnance, and accessories manufacturing"
+amu_rec,Amusement parks and arcades
+app_alt,Apparel manufacturing
+arc_tsv,"Architectural, engineering, and related services"
+asp_fbp,"Animal (except poultry) slaughtering, rendering, and processing"
+ath_mmf,Sporting and athletic goods manufacturing
+atm_mot,Automobile manufacturing
+atr_osv,Automotive repair and maintenance
+aud_cep,Audio and video equipment manufacturing
+aut_rnt,Automotive equipment rental and leasing
+bbr_fmt,Ball and roller bearing manufacturing
+bef_agr,"Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming"
+ber_fbp,Breweries
+bio_che,Biological product (except diagnostic) manufacturing
+bok_pub,Book publishers
+bot_ote,Boat building
+bot_pla,Plastics bottle manufacturing
+brd_cep,Broadcast and wireless communications equipment
+brd_fbp,Bread and bakery product manufacturing
+brk_fbp,Breakfast cereal manufacturing
+brk_mot,"Motor vehicle steering, suspension component (except spring), and brake systems manufacturing"
+bsp_adm,Business support services
+bui_ott,Building material and garden equipment and supplies dealers
+cab_fpd,Wood kitchen cabinet and countertop manufacturing
+cam_mot,Travel trailer and camper manufacturing
+can_fbp,"Fruit and vegetable canning, pickling, and drying"
+car_ins,"Insurance carriers, except direct life"
+cas_rec,Gambling industries (except casino hotels)
+cbl_brd,Cable and other subscription programming
+cbn_eec,Carbon and graphite product manufacturing
+ceh_fmt,"Coating, engraving, heat treating and allied activities"
+chk_fbp,Poultry processing
+chs_fbp,Cheese manufacturing
+cig_fbp,Tobacco product manufacturing
+civ_osv,"Civic, social, professional, and similar organizations"
+clo_ott,Clothing and clothing accessories stores
+cly_nmp,Clay product and refractory manufacturing
+cme_eec,Communication and energy wire and cable manufacturing
+cmf_soc,"Community food, housing, and other relief services, including rehabilitation services"
+cmg_rnt,General and consumer goods rental
+cmt_nmp,Cement manufacturing
+cnc_nmp,Ready-mix concrete manufacturing
+cok_fbp,"Cookie, cracker, pasta, and tortilla manufacturing"
+col_min,Coal mining
+com_rnt,Commercial and industrial machinery and equipment rental and leasing
+com_sec,Securities and commodity contracts intermediation and brokerage
+con_mch,Construction machinery manufacturing
+cop_pmt,"Copper rolling, drawing, extruding and alloying"
+cpb_nmp,"Concrete pipe, brick, and block manufacturing"
+cre_bnk,Nondepository credit intermediation and related activities
+crn_fmt,"Metal crown, closure, and other metal stamping (except automotive)"
+csd_cep,Computer storage device manufacturing
+ctm_cep,Computer terminals and other computer peripheral equipment manufacturing
+cus_com,Custom computer programming services
+cut_fmt,Cutlery and handtool manufacturing
+cut_mch,"Cutting and machine tool accessory, rolling mill, and other metalworking machinery manufacturing"
+cut_nmp,Cut stone and stone product manufacturing
+day_soc,Child day care services
+des_tsv,Specialized design services
+dir_ins,Direct life insurance carriers
+dlb_mmf,Dental laboratories
+dnt_amb,Offices of dentists
+dnt_mmf,Dental equipment and supplies manufacturing
+dog_fbp,Dog and cat food manufacturing
+dpr_dat,"Data processing, hosting, and related services"
+drl_smn,Drilling oil and gas wells
+dru_wht,Drugs and druggists’ sundries
+dry_agr,Dairy cattle and milk production
+dry_fbp,"Dry, condensed, and evaporated dairy product manufacturing"
+dry_osv,Dry-cleaning and laundry services
+dut_wht,Customs duties
+dwe_adm,Services to buildings and dwellings
+ecm_cep,Electronic computer manufacturing
+edu_con,Educational and vocational structures
+edu_slg,State and local government educational services
+eea_cep,Electromedical and electrotherapeutic apparatus manufacturing
+eee_mot,Motor vehicle electrical and electronic equipment manufacturing
+egg_agr,Poultry and egg production
+elb_eec,Electric lamp bulb and part manufacturing
+ele_fen,Federal electric utilities
+ele_sle,State and local government electric utilities
+ele_uti,"Electric power generation, transmission, and distribution"
+ele_wht,Wholesale electronic markets and agents and brokers
+els_cep,Electricity and signal testing instruments manufacturing
+emp_adm,Employment services
+ent_sle,Other state and local government enterprises
+env_tsv,Environmental and other technical consulting services
+eqr_osv,Electronic and precision equipment repair and maintenance
+fab_fmt,Fabricated pipe and pipe fitting manufacturing
+fac_adm,Facilities support services
+fat_fbp,Fats and oils refining and blending
+fbt_fbt,Food and beverage stores
+fdd_fdd,Federal general government (defense)
+fht_fof,"Fishing, hunting and trapping"
+fin_fin,"Funds, trusts, and other financial vehicles"
+fld_mch,Fluid power process machinery
+flo_agr,"Greenhouse, nursery, and floriculture production"
+flr_fbp,Flour milling and malt manufacturing
+fmf_che,Fertilizer manufacturing
+fmf_pmt,Ferrous metal foundries
+fml_tex,Fabric mills
+fnd_fnd,Federal general government (nondefense)
+fom_pla,Polystyrene foam product manufacturing
+frm_mch,Farm machinery and equipment manufacturing
+fss_fmt,"All other forging, stamping, and sintering"
+ful_res,Full-service restaurants
+fun_osv,Death care services
+fyt_tex,"Fiber, yarn, and thread mills"
+fzn_fbp,Frozen food manufacturing
+gas_mot,Motor vehicle gasoline engine and engine parts manufacturing
+gas_ott,Gasoline stations
+gas_uti,Natural gas distribution
+gla_nmp,Glass and glass product manufacturing
+gmt_gmt,General merchandise stores
+grd_grd,Transit and ground passenger transportation
+grn_agr,Grain farming
+gro_wht,Grocery and related product wholesalers
+grt_osv,"Grantmaking, giving, and social advocacy organizations"
+hca_eec,Household cooking appliance manufacturing
+hcs_con,Health care structures
+hdw_fmt,Hardware manufacturing
+hea_mch,Heating equipment (except warm air furnaces) manufacturing
+hea_ott,Health and personal care stores
+hea_slg,State and local government hospitals and health services
+hgr_osv,Personal and household goods repair and maintenance
+hha_wht,Household appliances and electrical and electronic goods
+hle_eec,Household laundry equipment manufacturing
+hom_amb,Home health care services
+hom_mot,Motor home manufacturing
+hos_hos,Hospitals
+hrf_eec,Household refrigerator and home freezer manufacturing
+htr_mot,Heavy duty truck manufacturing
+ice_fbp,Ice cream and frozen dessert manufacturing
+ifm_fpd,Institutional furniture manufacturing
+ifs_soc,Individual and family services
+igm_che,Industrial gas manufacturing
+imm_mch,Industrial mold manufacturing
+imp_oth,Noncomparable imports
+imr_osv,Commercial and industrial machinery and equipment repair and maintenance
+ind_art,"Independent artists, writers, and performers"
+int_dat,Internet publishing and broadcasting and Web search portals
+int_rnt,Lessors of nonfinancial intangible assets
+inv_adm,Investigation and security services
+inv_che,In-vitro diagnostic substance manufacturing
+ipf_mch,Industrial process furnace and oven manufacturing
+ipv_cep,Industrial process variable instruments manufacturing
+irn_pmt,Iron and steel mills and ferroalloy manufacturing
+irr_cep,Irradiation apparatus manufacturing
+jwl_mmf,Jewelry and silverware manufacturing
+lab_amb,Medical and diagnostic laboratories
+lam_pla,"Laminated plastics plate, sheet (except packaging), and shape manufacturing"
+lea_alt,Leather and allied product manufacturing
+led_min,"Copper, nickel, lead, and zinc mining"
+leg_leg,Legal services
+lim_res,Limited-service restaurants
+lin_tex,Curtain and linen mills
+lme_nmp,Lime and gypsum product manufacturing
+log_fof,Forestry and logging
+ltf_eec,Lighting fixture manufacturing
+ltr_mot,Light truck and utility vehicle manufacturing
+lwn_mch,Lawn and garden equipment manufacturing
+mal_pub,"Directory, mailing list, and other publishers"
+man_man,Management of companies and enterprises
+mat_mch,Material handling equipment manufacturing
+mbd_mot,Motor vehicle body manufacturing
+mbm_che,Medicinal and botanical manufacturing
+mch_fmt,Machine shops
+mch_mch,Mechanical power transmission equipment manufacturing
+mch_wht,"Machinery, equipment, and supplies"
+mcl_ote,"Motorcycle, bicycle, and parts manufacturing"
+mct_mch,Machine tool manufacturing
+mes_otr,Couriers and messengers
+mfs_con,Manufacturing structures
+mgt_tsv,Management consulting services
+mil_wpd,Millwork
+min_mch,Mining and oil and gas field machinery manufacturing
+mis_ote,Guided missile and space vehicle manufacturing
+mkt_tsv,"All other miscellaneous professional, scientific, and technical services"
+mlk_fbp,Fluid milk and butter manufacturing
+mlt_ote,"Military armored vehicle, tank, and tank component manufacturing"
+mmo_cep,Manufacturing and reproducing magnetic and optical media
+mnm_nmp,Miscellaneous nonmetallic mineral products
+mon_bnk,Monetary authorities and depository credit intermediation
+mrs_con,Multifamily residential structures
+mtc_fmt,"Metal can, box, and other metal container (light gauge) manufacturing"
+mtg_eec,Motor and generator manufacturing
+mtt_fmt,Metal tank (heavy gauge) manufacturing
+mtv_wht,Motor vehicle and motor vehicle parts and supplies
+mus_art,"Museums, historical sites, zoos, and parks"
+mvt_mvt,Motor vehicle and parts dealers
+ncc_nrs,Nursing and community care facilities
+ndg_wht,Other nondurable goods merchant wholesalers
+new_dat,"News syndicates, libraries, archives and all other information services"
+new_pub,Newspaper publishers
+nff_pmt,Nonferrous metal foundries
+nfm_pmt,"Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying"
+nmr_con,Nonresidential maintenance and repair
+nms_pmt,Nonferrous Metal (except Aluminum) Smelting and Refining
+non_ott,Nonstore retailers
+nup_fpd,Nonupholstered wood household furniture manufacturing
+nut_agr,Fruit and tree nut farming
+oaf_fbp,Other animal food manufacturing
+oar_ote,Other aircraft parts and auxiliary equipment manufacturing
+oas_amb,Other ambulatory health care services
+obi_che,Other Basic Inorganic Chemical Manufacturing
+obo_che,Other basic organic chemical manufacturing
+oce_cep,Other communications equipment manufacturing
+och_che,All other chemical product and preparation manufacturing
+oci_mch,Other commercial and service industry machinery manufacturing
+ocp_nmp,Other concrete product manufacturing
+ocs_com,"Other computer related services, including facilities management"
+odg_wht,Other durable goods merchant wholesalers
+oec_cep,Other electronic component manufacturing
+oee_eec,All other miscellaneous electrical equipment and component manufacturing
+oee_mch,Other engine equipment manufacturing
+oes_edu,Other educational services
+ofd_res,All other food and drinking places
+off_adm,Office administrative services
+off_con,Office and commercial structures
+off_fpd,Office furniture and custom architectural woodwork and millwork manufacturing
+ofg_fen,Other federal government enterprises
+ofi_sec,Other financial investment activities
+ofm_fbp,All other food manufacturing
+ofm_mmf,Office supplies (except paper) manufacturing
+ofp_fpd,Other furniture related product manufacturing
+ogp_mch,Other general purpose machinery manufacturing
+ohn_fpd,Other household nonupholstered furniture
+ohp_amb,Offices of other health practitioners
+oil_agr,Oilseed farming
+oil_oil,Oil and gas extraction
+omf_fmt,Other fabricated metal manufacturing
+omh_eec,Other major household appliance manufacturing
+omm_mmf,All other miscellaneous manufacturing
+omv_mot,Other Motor Vehicle Parts Manufacturing
+ons_con,Other nonresidential structures
+oph_mmf,Ophthalmic goods manufacturing
+opm_pla,Other plastics product manufacturing
+opp_ppd,All other converted paper product manufacturing
+ops_osv,Other personal services
+opt_mch,Optical instrument and lens manufacturing
+orb_pla,Other rubber product manufacturing
+ore_min,"Iron, gold, silver, and other metal ore mining"
+ore_ore,Other real estate
+ori_rec,Other amusement and recreation industries
+orn_fmt,Ornamental and architectural metal products manufacturing
+ors_con,Other residential structures
+oss_adm,Other support services
+ota_agr,"Animal production, except cattle and poultry and eggs"
+oth_agr,Other crop farming
+oth_min,Other nonmetallic mineral mining and quarrying
+oth_ott,All other retail
+oth_pet,Other petroleum and coal products manufacturing
+oth_slg,State and local government other services
+oth_smn,Other support activities for mining
+oti_mch,Other industrial machinery manufacturing
+otm_ote,All other transportation equipment manufacturing
+otp_tex,Other textile product mills
+out_amb,Outpatient care centers
+own_hou,Owner-occupied housing
+owp_wpd,All other wood product manufacturing
+pag_che,Pesticide and other agricultural chemical manufacturing
+pav_pet,Asphalt paving mixture and block manufacturing
+pbc_ppd,Paperboard container manufacturing
+pbm_ppd,Paperboard mills
+pbt_eec,Primary battery manufacturing
+pce_wht,Professional and commercial equipment and supplies
+pcs_osv,Personal care services
+pdl_pub,Periodical Publishers
+pet_wht,Petroleum and petroleum products
+pfm_art,Performing arts companies
+phm_che,Pharmaceutical preparation manufacturing
+pht_mch,Photographic and photocopying equipment manufacturing
+pht_tsv,Photographic services
+phy_amb,Offices of physicians
+pic_mov,Motion picture and video industries
+pip_pip,Pipeline transportation
+pkg_mch,Packaging machinery manufacturing
+plb_fmt,Plumbing fixture fitting and trim manufacturing
+plm_pla,Plastics packaging materials and unlaminated film and sheet manufacturing
+plp_ppd,Pulp mills
+plt_fmt,Plate work and fabricated structural product manufacturing
+pmr_che,Plastics material and resin manufacturing
+pnt_che,Paint and coating manufacturing
+pop_fbp,Soft drink and ice manufacturing
+ppb_ppd,Paper Bag and Coated and Treated Paper Manufacturing
+ppe_mch,Pump and pumping equipment manufacturing
+ppm_ppd,Paper mills
+ppp_pla,"Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing"
+prc_cep,Printed circuit assembly (electronic assembly) manufacturing
+pri_che,Printing ink manufacturing
+pri_pri,Printing
+pro_ote,Propulsion units and parts for space vehicles and guided missiles
+prv_osv,Private households
+pst_fen,Postal service
+ptr_che,Petrochemical manufacturing
+pwr_con,Power and communication structures
+pwr_eec,"Power, distribution, and specialty transformer manufacturing"
+pwr_fmt,Power boiler and heat exchanger manufacturing
+pwr_mch,Power-driven handtool manufacturing
+rad_brd,Radio and television broadcasting
+rbr_pla,Rubber and plastics hoses and belting manufacturing
+ref_pet,Petroleum refineries
+rel_osv,Religious organizations
+res_nrs,"Residential mental health, substance abuse, and other residential care facilities"
+ric_eec,Relay and industrial control manufacturing
+rmr_con,Residential maintenance and repair
+rnt_hou,Tenant-occupied housing
+rol_fmt,Custom roll forming
+rrd_ote,Railroad rolling stock manufacturing
+rug_tex,Carpet and rug mills
+rwa_oth,Rest of the world adjustment
+saf_fof,Support activities for agriculture and forestry
+sap_pri,Support activities for printing
+sas_mmf,Surgical appliance and supplies manufacturing
+sat_brd,"Satellite, telecommunications resellers, and all other telecommunications"
+saw_wpd,Sawmills and wood preservation
+sbt_eec,Storage battery manufacturing
+sce_otr,Scenic and sightseeing transportation and support activities for transportation
+sci_tsv,Scientific research and development services
+sdn_cep,"Search, detection, and navigation instruments manufacturing"
+sdp_che,Synthetic dye and pigment manufacturing
+sea_eec,Small electrical appliance manufacturing
+sea_fbp,Seafood product preparation and packaging
+sec_edu,Elementary and secondary schools
+sec_use,Used and secondhand goods
+sem_cep,Semiconductor and related device manufacturing
+sfw_pub,Software publishers
+sgn_mmf,Sign manufacturing
+shn_pet,Asphalt shingle and coating materials manufacturing
+shp_ote,Ship building and repairing
+shv_fpd,"Showcase, partition, shelving, and locker manufacturing"
+smc_mch,Semiconductor machinery manufacturing
+sme_pmt,Secondary smelting and alloying of aluminum
+smi_mmf,Surgical and medical instrument manufacturing
+snd_mov,Sound recording industries
+snk_fbp,Snack food manufacturing
+sop_che,Soap and cleaning compound manufacturing
+soy_fbp,Soybean and other oilseed processing
+spc_fbp,Seasoning and dressing manufacturing
+spd_mch,"Speed changer, industrial high-speed drive, and gear manufacturing"
+spr_art,Spectator sports
+spr_fmt,Spring and wire product manufacturing
+spt_mch,"Special tool, die, jig, and fixture manufacturing"
+srf_che,Synthetic rubber and artificial and synthetic fibers and filaments manufacturing
+srp_use,Scrap
+srs_con,Single-family residential structures
+sta_ppd,Stationery product manufacturing
+stl_pmt,Steel product manufacturing from purchased steel
+stm_mot,Motor vehicle metal stamping
+stn_min,Stone mining and quarrying
+sug_fbp,Sugar and confectionery product manufacturing
+swt_eec,Switchgear and switchboard apparatus manufacturing
+syr_fbp,Flavoring syrup and concentrate manufacturing
+sys_com,Computer systems design services
+tbn_mch,Turbine and turbine generator set units manufacturing
+tea_fbp,Coffee and tea manufacturing
+tel_cep,Telephone apparatus manufacturing
+tfl_cep,Totalizing fluid meter and counting device manufacturing
+tir_pla,Tire manufacturing
+tmn_nmp,Ground or treated mineral and earth manufacturing
+toi_che,Toilet preparation manufacturing
+toi_ppd,Sanitary paper product manufacturing
+toy_mmf,"Doll, toy, and game manufacturing"
+tps_fmt,"Turned product and screw, nut, and bolt manufacturing"
+tpw_mot,Motor vehicle transmission and power train parts manufacturing
+trk_trk,Truck transportation
+trl_mot,Truck trailer manufacturing
+trm_mot,Motor vehicle seating and interior trim manufacturing
+trn_con,Transportation structures and highways and streets
+trn_sle,State and local government passenger transit
+trn_trn,Rail transportation
+trv_adm,Travel arrangement and reservation services
+txf_tex,Textile and fabric finishing and fabric coating mills
+uni_edu,"Junior colleges, colleges, universities, and professional schools"
+uph_fpd,Upholstered household furniture manufacturing
+ure_pla,Urethane and other foam product (except polystyrene) manufacturing
+veg_agr,Vegetable and melon farming
+ven_wpd,"Veneer, plywood, and engineered wood product manufacturing"
+vet_tsv,Veterinary services
+vlv_fmt,Valve and fittings other than plumbing
+wat_uti,"Water, sewage and other systems"
+wcm_cep,"Watch, clock, and other measuring and controlling device manufacturing"
+wdv_eec,Wiring device manufacturing
+wet_fbp,Wet corn milling
+why_fbp,Distilleries
+wls_brd,Wireless telecommunications carriers (except satellite)
+wne_fbp,Wineries
+wol_nmp,Mineral wool manufacturing
+wrh_wrh,Warehousing and storage
+wst_wst,Waste management and remediation services
+wtl_brd,Wired telecommunications carriers
+wtt_wtt,Water transportation

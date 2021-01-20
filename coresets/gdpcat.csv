@@ -1,9 +1,9 @@
-gdpcat
-cmp
-gdp
-gos
-qty
-rgdp
-sbd
-tax
-taxsbd
+gdpcat,desc
+cmp,Compensation of employees
+gdp,Gross domestic product (GDP) by state
+gos,Gross operating surplus
+qty,Quantity indexes for real GDP by state (2012=100.0)
+rgdp,Real GDP by state
+sbd,Subsidies
+tax,Taxes on production and imports
+taxsbd,Taxes on production and imports less subsidies
