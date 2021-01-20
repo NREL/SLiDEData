@@ -1,0 +1,9 @@
+units_code,units_desc
+btu,trillion btu
+kwh,billion kilowatthours
+usd,billions of us dollars (USD)
+usd_per_kwh,us dollars (USD) per thousand kilowatthour
+usd_per_btu,us dollars (USD) per million btu
+btu_per_barrel,million btu per barrel
+pop,thousand
+xusd,millions of chained 2009 us dollars (USD)
