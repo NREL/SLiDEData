@@ -1,3 +1,11 @@
 **/.DS_Store
 **/.vscode
+**/_*
 **/__*
+**/~*
+
+data
+
+dev/readfiles
+dev/mapsources
+dev/datasources
