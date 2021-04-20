@@ -1,158 +1,158 @@
 state_code,county_code,cousub_code,cnecta_code,necta_code,nectadiv_code,cnecta_desc,necta_desc,nectadiv_desc,place_desc,nmemi,nectapci
-09,015,09190,715,79600,,"Boston-Worcester-Providence, MA-RI-NH-CT-ME","Worcester, MA-CT",,Brooklyn town,1,false
-09,015,21860,715,79600,,"Boston-Worcester-Providence, MA-RI-NH-CT-ME","Worcester, MA-CT",,Eastford town,1,false
-09,015,40500,715,79600,,"Boston-Worcester-Providence, MA-RI-NH-CT-ME","Worcester, MA-CT",,Killingly town,1,false
-09,015,59980,715,79600,,"Boston-Worcester-Providence, MA-RI-NH-CT-ME","Worcester, MA-CT",,Plainfield town,1,false
-09,015,61030,715,79600,,"Boston-Worcester-Providence, MA-RI-NH-CT-ME","Worcester, MA-CT",,Pomfret town,1,false
-09,015,62710,715,79600,,"Boston-Worcester-Providence, MA-RI-NH-CT-ME","Worcester, MA-CT",,Putnam town,1,false
-09,015,73420,715,79600,,"Boston-Worcester-Providence, MA-RI-NH-CT-ME","Worcester, MA-CT",,Sterling town,1,false
-09,015,75870,715,79600,,"Boston-Worcester-Providence, MA-RI-NH-CT-ME","Worcester, MA-CT",,Thompson town,1,false
-09,015,88190,715,79600,,"Boston-Worcester-Providence, MA-RI-NH-CT-ME","Worcester, MA-CT",,Woodstock town,1,false
-09,001,08070,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Bridgeport city and town,1,false
-09,001,18850,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Darien town,1,false
-09,001,23890,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Easton town,1,false
-09,001,26620,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Fairfield town,1,false
-09,001,33620,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Greenwich town,1,false
-09,001,48620,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Monroe town,1,false
-09,001,50580,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,New Canaan town,1,false
-09,001,56060,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Norwalk city and town,1,false
-09,001,63480,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Redding town,1,false
-09,001,63970,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Ridgefield town,1,false
-09,001,68170,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Shelton city and town,1,false
-09,001,73070,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Stamford city and town,1,false
-09,001,74190,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Stratford town,1,false
-09,001,77200,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Trumbull town,1,false
-09,001,83430,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Weston town,1,false
-09,001,83500,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Westport town,1,false
-09,001,86370,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Wilton town,1,false
-09,001,04720,720,72850,,"Bridgeport-New Haven-Stamford, CT","Danbury, CT",,Bethel town,1,false
-09,001,08980,720,72850,,"Bridgeport-New Haven-Stamford, CT","Danbury, CT",,Brookfield town,1,false
-09,001,18500,720,72850,,"Bridgeport-New Haven-Stamford, CT","Danbury, CT",,Danbury city and town,1,false
-09,001,50860,720,72850,,"Bridgeport-New Haven-Stamford, CT","Danbury, CT",,New Fairfield town,1,false
-09,001,52980,720,72850,,"Bridgeport-New Haven-Stamford, CT","Danbury, CT",,Newtown town,1,false
-09,001,68310,720,72850,,"Bridgeport-New Haven-Stamford, CT","Danbury, CT",,Sherman town,1,false
-09,005,08210,720,72850,,"Bridgeport-New Haven-Stamford, CT","Danbury, CT",,Bridgewater town,1,false
-09,005,52630,720,72850,,"Bridgeport-New Haven-Stamford, CT","Danbury, CT",,New Milford town,1,false
-09,005,65930,720,72850,,"Bridgeport-New Haven-Stamford, CT","Danbury, CT",,Roxbury town,1,false
-09,005,80490,720,78700,,"Bridgeport-New Haven-Stamford, CT","Waterbury, CT",,Watertown town,1,false
-09,007,14300,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Chester town,1,false
-09,007,15350,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Clinton town,1,false
-09,007,19130,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Deep River town,1,false
-09,007,20810,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Durham town,1,false
-09,007,26270,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Essex town,1,false
-09,007,40710,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Killingworth town,1,false
-09,007,47080,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Middlefield town,1,false
-09,007,57320,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Old Saybrook town,1,false
-09,007,81680,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Westbrook town,1,false
-09,009,01220,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Ansonia city and town,1,false
-09,009,19550,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Derby city and town,1,false
-09,009,47535,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Milford city and town,1,false
-09,009,58300,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Oxford town,1,false
-09,009,67610,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Seymour town,1,false
-09,009,69640,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Southbury town,1,false
-09,009,87700,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Woodbridge town,1,false
-09,009,04580,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Bethany town,1,false
-09,009,07310,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Branford town,1,false
-09,009,14160,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Cheshire town,1,false
-09,009,22910,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,East Haven town,1,false
-09,009,34950,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Guilford town,1,false
-09,009,35650,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Hamden town,1,false
-09,009,44560,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Madison town,1,false
-09,009,46520,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Meriden city and town,1,false
-09,009,52070,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,New Haven city and town,1,false
-09,009,53890,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,North Branford town,1,false
-09,009,54870,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,North Haven town,1,false
-09,009,57600,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Orange town,1,false
-09,009,78740,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Wallingford town,1,false
-09,009,82870,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,West Haven city and town,1,false
-09,009,03250,720,78700,,"Bridgeport-New Haven-Stamford, CT","Waterbury, CT",,Beacon Falls town,1,false
-09,009,46940,720,78700,,"Bridgeport-New Haven-Stamford, CT","Waterbury, CT",,Middlebury town,1,false
-09,009,49950,720,78700,,"Bridgeport-New Haven-Stamford, CT","Waterbury, CT",,Naugatuck borough and town,1,false
-09,009,62290,720,78700,,"Bridgeport-New Haven-Stamford, CT","Waterbury, CT",,Prospect town,1,false
-09,009,80070,720,78700,,"Bridgeport-New Haven-Stamford, CT","Waterbury, CT",,Waterbury city and town,1,false
-09,009,87560,720,78700,,"Bridgeport-New Haven-Stamford, CT","Waterbury, CT",,Wolcott town,1,false
-09,003,02060,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Avon town,1,false
-09,003,04300,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Berlin town,1,false
-09,003,05910,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Bloomfield town,1,false
-09,003,08490,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Bristol city and town,1,false
-09,003,10100,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Burlington town,1,false
-09,003,12270,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Canton town,1,false
-09,003,22070,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,East Granby town,1,false
-09,003,22630,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,East Hartford town,1,false
-09,003,27600,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Farmington town,1,false
-09,003,31240,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Glastonbury town,1,false
-09,003,32640,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Granby town,1,false
-09,003,37070,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Hartford city and town,1,false
-09,003,37140,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Hartland town,1,false
-09,003,44700,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Manchester town,1,false
-09,003,45820,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Marlborough town,1,false
-09,003,50440,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,New Britain city and town,1,false
-09,003,52140,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Newington town,1,false
-09,003,60120,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Plainville town,1,false
-09,003,65370,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Rocky Hill town,1,false
-09,003,68940,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Simsbury town,1,false
-09,003,70550,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Southington town,1,false
-09,003,71390,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,South Windsor town,1,false
-09,003,82590,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,West Hartford town,1,false
-09,003,84900,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Wethersfield town,1,false
-09,003,87000,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Windsor town,1,false
-09,003,24800,790,78100,,"Springfield-Hartford-East Hartford, MA-CT","Springfield, MA-CT",,East Windsor town,1,false
-09,003,25990,790,78100,,"Springfield-Hartford-East Hartford, MA-CT","Springfield, MA-CT",,Enfield town,1,false
-09,003,74540,790,78100,,"Springfield-Hartford-East Hartford, MA-CT","Springfield, MA-CT",,Suffield town,1,false
-09,003,87070,790,78100,,"Springfield-Hartford-East Hartford, MA-CT","Springfield, MA-CT",,Windsor Locks town,1,false
-09,005,02760,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Barkhamsted town,1,false
-09,005,51350,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,New Hartford town,1,false
-09,005,60750,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Plymouth town,1,false
-09,005,75730,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Thomaston town,1,false
-09,005,16050,790,78400,,"Springfield-Hartford-East Hartford, MA-CT","Torrington, CT",,Colebrook town,2,false
-09,005,37280,790,78400,,"Springfield-Hartford-East Hartford, MA-CT","Torrington, CT",,Harwinton town,2,false
-09,005,76570,790,78400,,"Springfield-Hartford-East Hartford, MA-CT","Torrington, CT",,Torrington city and town,2,false
-09,005,86440,790,78400,,"Springfield-Hartford-East Hartford, MA-CT","Torrington, CT",,Winchester town,2,false
-09,007,18080,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Cromwell town,1,false
-09,007,22280,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,East Haddam town,1,false
-09,007,22490,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,East Hampton town,1,false
-09,007,35230,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Haddam town,1,false
-09,007,47360,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Middletown city and town,1,false
-09,007,61800,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Portland town,1,false
-09,011,15910,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Colchester town,1,false
-09,011,42390,790,79300,,"Springfield-Hartford-East Hartford, MA-CT","Willimantic, CT",,Lebanon town,2,false
-09,013,01080,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Andover town,1,false
-09,013,06260,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Bolton town,1,false
-09,013,16400,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Columbia town,1,false
-09,013,17800,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Coventry town,1,false
-09,013,25360,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Ellington town,1,false
-09,013,37910,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Hebron town,1,false
-09,013,44910,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Mansfield town,1,false
-09,013,72090,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Stafford town,1,false
-09,013,76290,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Tolland town,1,false
-09,013,77830,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Union town,1,false
-09,013,78250,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Vernon town,1,false
-09,013,85950,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Willington town,1,false
-09,013,69220,790,78100,,"Springfield-Hartford-East Hartford, MA-CT","Springfield, MA-CT",,Somers town,1,false
-09,015,01430,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Ashford town,1,false
-09,015,13810,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Chaplin town,1,false
-09,015,67400,790,79300,,"Springfield-Hartford-East Hartford, MA-CT","Willimantic, CT",,Scotland town,2,false
-09,015,86790,790,79300,,"Springfield-Hartford-East Hartford, MA-CT","Willimantic, CT",,Windham town,2,false
-09,011,06820,,76450,,,"Norwich-New London-Westerly, CT-RI",,Bozrah town,1,false
-09,011,23400,,76450,,,"Norwich-New London-Westerly, CT-RI",,East Lyme town,1,false
-09,011,29910,,76450,,,"Norwich-New London-Westerly, CT-RI",,Franklin town,1,false
-09,011,33900,,76450,,,"Norwich-New London-Westerly, CT-RI",,Griswold town,1,false
-09,011,34250,,76450,,,"Norwich-New London-Westerly, CT-RI",,Groton town,1,false
-09,011,42600,,76450,,,"Norwich-New London-Westerly, CT-RI",,Ledyard town,1,false
-09,011,43230,,76450,,,"Norwich-New London-Westerly, CT-RI",,Lisbon town,1,false
-09,011,44210,,76450,,,"Norwich-New London-Westerly, CT-RI",,Lyme town,1,false
-09,011,48900,,76450,,,"Norwich-New London-Westerly, CT-RI",,Montville town,1,false
-09,011,52350,,76450,,,"Norwich-New London-Westerly, CT-RI",,New London city and town,1,false
-09,011,55500,,76450,,,"Norwich-New London-Westerly, CT-RI",,North Stonington town,1,false
-09,011,56270,,76450,,,"Norwich-New London-Westerly, CT-RI",,Norwich city and town,1,false
-09,011,57040,,76450,,,"Norwich-New London-Westerly, CT-RI",,Old Lyme town,1,false
-09,011,62150,,76450,,,"Norwich-New London-Westerly, CT-RI",,Preston town,1,false
-09,011,66210,,76450,,,"Norwich-New London-Westerly, CT-RI",,Salem town,1,false
-09,011,71670,,76450,,,"Norwich-New London-Westerly, CT-RI",,Sprague town,1,false
-09,011,73770,,76450,,,"Norwich-New London-Westerly, CT-RI",,Stonington town,1,false
-09,011,78600,,76450,,,"Norwich-New London-Westerly, CT-RI",,Voluntown town,1,false
-09,011,80280,,76450,,,"Norwich-New London-Westerly, CT-RI",,Waterford town,1,false
-09,015,12130,,76450,,,"Norwich-New London-Westerly, CT-RI",,Canterbury town,1,false
+9,015,09190,715,79600,,"Boston-Worcester-Providence, MA-RI-NH-CT-ME","Worcester, MA-CT",,Brooklyn town,1,false
+9,015,21860,715,79600,,"Boston-Worcester-Providence, MA-RI-NH-CT-ME","Worcester, MA-CT",,Eastford town,1,false
+9,015,40500,715,79600,,"Boston-Worcester-Providence, MA-RI-NH-CT-ME","Worcester, MA-CT",,Killingly town,1,false
+9,015,59980,715,79600,,"Boston-Worcester-Providence, MA-RI-NH-CT-ME","Worcester, MA-CT",,Plainfield town,1,false
+9,015,61030,715,79600,,"Boston-Worcester-Providence, MA-RI-NH-CT-ME","Worcester, MA-CT",,Pomfret town,1,false
+9,015,62710,715,79600,,"Boston-Worcester-Providence, MA-RI-NH-CT-ME","Worcester, MA-CT",,Putnam town,1,false
+9,015,73420,715,79600,,"Boston-Worcester-Providence, MA-RI-NH-CT-ME","Worcester, MA-CT",,Sterling town,1,false
+9,015,75870,715,79600,,"Boston-Worcester-Providence, MA-RI-NH-CT-ME","Worcester, MA-CT",,Thompson town,1,false
+9,015,88190,715,79600,,"Boston-Worcester-Providence, MA-RI-NH-CT-ME","Worcester, MA-CT",,Woodstock town,1,false
+9,001,08070,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Bridgeport city and town,1,false
+9,001,18850,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Darien town,1,false
+9,001,23890,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Easton town,1,false
+9,001,26620,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Fairfield town,1,false
+9,001,33620,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Greenwich town,1,false
+9,001,48620,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Monroe town,1,false
+9,001,50580,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,New Canaan town,1,false
+9,001,56060,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Norwalk city and town,1,false
+9,001,63480,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Redding town,1,false
+9,001,63970,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Ridgefield town,1,false
+9,001,68170,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Shelton city and town,1,false
+9,001,73070,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Stamford city and town,1,false
+9,001,74190,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Stratford town,1,false
+9,001,77200,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Trumbull town,1,false
+9,001,83430,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Weston town,1,false
+9,001,83500,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Westport town,1,false
+9,001,86370,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Wilton town,1,false
+9,001,04720,720,72850,,"Bridgeport-New Haven-Stamford, CT","Danbury, CT",,Bethel town,1,false
+9,001,08980,720,72850,,"Bridgeport-New Haven-Stamford, CT","Danbury, CT",,Brookfield town,1,false
+9,001,18500,720,72850,,"Bridgeport-New Haven-Stamford, CT","Danbury, CT",,Danbury city and town,1,false
+9,001,50860,720,72850,,"Bridgeport-New Haven-Stamford, CT","Danbury, CT",,New Fairfield town,1,false
+9,001,52980,720,72850,,"Bridgeport-New Haven-Stamford, CT","Danbury, CT",,Newtown town,1,false
+9,001,68310,720,72850,,"Bridgeport-New Haven-Stamford, CT","Danbury, CT",,Sherman town,1,false
+9,005,08210,720,72850,,"Bridgeport-New Haven-Stamford, CT","Danbury, CT",,Bridgewater town,1,false
+9,005,52630,720,72850,,"Bridgeport-New Haven-Stamford, CT","Danbury, CT",,New Milford town,1,false
+9,005,65930,720,72850,,"Bridgeport-New Haven-Stamford, CT","Danbury, CT",,Roxbury town,1,false
+9,005,80490,720,78700,,"Bridgeport-New Haven-Stamford, CT","Waterbury, CT",,Watertown town,1,false
+9,007,14300,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Chester town,1,false
+9,007,15350,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Clinton town,1,false
+9,007,19130,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Deep River town,1,false
+9,007,20810,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Durham town,1,false
+9,007,26270,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Essex town,1,false
+9,007,40710,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Killingworth town,1,false
+9,007,47080,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Middlefield town,1,false
+9,007,57320,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Old Saybrook town,1,false
+9,007,81680,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Westbrook town,1,false
+9,009,01220,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Ansonia city and town,1,false
+9,009,19550,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Derby city and town,1,false
+9,009,47535,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Milford city and town,1,false
+9,009,58300,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Oxford town,1,false
+9,009,67610,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Seymour town,1,false
+9,009,69640,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Southbury town,1,false
+9,009,87700,720,71950,,"Bridgeport-New Haven-Stamford, CT","Bridgeport-Stamford-Norwalk, CT",,Woodbridge town,1,false
+9,009,04580,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Bethany town,1,false
+9,009,07310,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Branford town,1,false
+9,009,14160,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Cheshire town,1,false
+9,009,22910,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,East Haven town,1,false
+9,009,34950,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Guilford town,1,false
+9,009,35650,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Hamden town,1,false
+9,009,44560,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Madison town,1,false
+9,009,46520,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Meriden city and town,1,false
+9,009,52070,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,New Haven city and town,1,false
+9,009,53890,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,North Branford town,1,false
+9,009,54870,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,North Haven town,1,false
+9,009,57600,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Orange town,1,false
+9,009,78740,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,Wallingford town,1,false
+9,009,82870,720,75700,,"Bridgeport-New Haven-Stamford, CT","New Haven, CT",,West Haven city and town,1,false
+9,009,03250,720,78700,,"Bridgeport-New Haven-Stamford, CT","Waterbury, CT",,Beacon Falls town,1,false
+9,009,46940,720,78700,,"Bridgeport-New Haven-Stamford, CT","Waterbury, CT",,Middlebury town,1,false
+9,009,49950,720,78700,,"Bridgeport-New Haven-Stamford, CT","Waterbury, CT",,Naugatuck borough and town,1,false
+9,009,62290,720,78700,,"Bridgeport-New Haven-Stamford, CT","Waterbury, CT",,Prospect town,1,false
+9,009,80070,720,78700,,"Bridgeport-New Haven-Stamford, CT","Waterbury, CT",,Waterbury city and town,1,false
+9,009,87560,720,78700,,"Bridgeport-New Haven-Stamford, CT","Waterbury, CT",,Wolcott town,1,false
+9,003,02060,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Avon town,1,false
+9,003,04300,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Berlin town,1,false
+9,003,05910,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Bloomfield town,1,false
+9,003,08490,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Bristol city and town,1,false
+9,003,10100,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Burlington town,1,false
+9,003,12270,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Canton town,1,false
+9,003,22070,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,East Granby town,1,false
+9,003,22630,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,East Hartford town,1,false
+9,003,27600,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Farmington town,1,false
+9,003,31240,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Glastonbury town,1,false
+9,003,32640,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Granby town,1,false
+9,003,37070,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Hartford city and town,1,false
+9,003,37140,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Hartland town,1,false
+9,003,44700,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Manchester town,1,false
+9,003,45820,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Marlborough town,1,false
+9,003,50440,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,New Britain city and town,1,false
+9,003,52140,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Newington town,1,false
+9,003,60120,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Plainville town,1,false
+9,003,65370,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Rocky Hill town,1,false
+9,003,68940,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Simsbury town,1,false
+9,003,70550,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Southington town,1,false
+9,003,71390,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,South Windsor town,1,false
+9,003,82590,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,West Hartford town,1,false
+9,003,84900,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Wethersfield town,1,false
+9,003,87000,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Windsor town,1,false
+9,003,24800,790,78100,,"Springfield-Hartford-East Hartford, MA-CT","Springfield, MA-CT",,East Windsor town,1,false
+9,003,25990,790,78100,,"Springfield-Hartford-East Hartford, MA-CT","Springfield, MA-CT",,Enfield town,1,false
+9,003,74540,790,78100,,"Springfield-Hartford-East Hartford, MA-CT","Springfield, MA-CT",,Suffield town,1,false
+9,003,87070,790,78100,,"Springfield-Hartford-East Hartford, MA-CT","Springfield, MA-CT",,Windsor Locks town,1,false
+9,005,02760,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Barkhamsted town,1,false
+9,005,51350,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,New Hartford town,1,false
+9,005,60750,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Plymouth town,1,false
+9,005,75730,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Thomaston town,1,false
+9,005,16050,790,78400,,"Springfield-Hartford-East Hartford, MA-CT","Torrington, CT",,Colebrook town,2,false
+9,005,37280,790,78400,,"Springfield-Hartford-East Hartford, MA-CT","Torrington, CT",,Harwinton town,2,false
+9,005,76570,790,78400,,"Springfield-Hartford-East Hartford, MA-CT","Torrington, CT",,Torrington city and town,2,false
+9,005,86440,790,78400,,"Springfield-Hartford-East Hartford, MA-CT","Torrington, CT",,Winchester town,2,false
+9,007,18080,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Cromwell town,1,false
+9,007,22280,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,East Haddam town,1,false
+9,007,22490,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,East Hampton town,1,false
+9,007,35230,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Haddam town,1,false
+9,007,47360,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Middletown city and town,1,false
+9,007,61800,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Portland town,1,false
+9,011,15910,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Colchester town,1,false
+9,011,42390,790,79300,,"Springfield-Hartford-East Hartford, MA-CT","Willimantic, CT",,Lebanon town,2,false
+9,013,01080,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Andover town,1,false
+9,013,06260,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Bolton town,1,false
+9,013,16400,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Columbia town,1,false
+9,013,17800,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Coventry town,1,false
+9,013,25360,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Ellington town,1,false
+9,013,37910,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Hebron town,1,false
+9,013,44910,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Mansfield town,1,false
+9,013,72090,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Stafford town,1,false
+9,013,76290,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Tolland town,1,false
+9,013,77830,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Union town,1,false
+9,013,78250,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Vernon town,1,false
+9,013,85950,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Willington town,1,false
+9,013,69220,790,78100,,"Springfield-Hartford-East Hartford, MA-CT","Springfield, MA-CT",,Somers town,1,false
+9,015,01430,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Ashford town,1,false
+9,015,13810,790,73450,,"Springfield-Hartford-East Hartford, MA-CT","Hartford-East Hartford-Middletown, CT",,Chaplin town,1,false
+9,015,67400,790,79300,,"Springfield-Hartford-East Hartford, MA-CT","Willimantic, CT",,Scotland town,2,false
+9,015,86790,790,79300,,"Springfield-Hartford-East Hartford, MA-CT","Willimantic, CT",,Windham town,2,false
+9,011,06820,,76450,,,"Norwich-New London-Westerly, CT-RI",,Bozrah town,1,false
+9,011,23400,,76450,,,"Norwich-New London-Westerly, CT-RI",,East Lyme town,1,false
+9,011,29910,,76450,,,"Norwich-New London-Westerly, CT-RI",,Franklin town,1,false
+9,011,33900,,76450,,,"Norwich-New London-Westerly, CT-RI",,Griswold town,1,false
+9,011,34250,,76450,,,"Norwich-New London-Westerly, CT-RI",,Groton town,1,false
+9,011,42600,,76450,,,"Norwich-New London-Westerly, CT-RI",,Ledyard town,1,false
+9,011,43230,,76450,,,"Norwich-New London-Westerly, CT-RI",,Lisbon town,1,false
+9,011,44210,,76450,,,"Norwich-New London-Westerly, CT-RI",,Lyme town,1,false
+9,011,48900,,76450,,,"Norwich-New London-Westerly, CT-RI",,Montville town,1,false
+9,011,52350,,76450,,,"Norwich-New London-Westerly, CT-RI",,New London city and town,1,false
+9,011,55500,,76450,,,"Norwich-New London-Westerly, CT-RI",,North Stonington town,1,false
+9,011,56270,,76450,,,"Norwich-New London-Westerly, CT-RI",,Norwich city and town,1,false
+9,011,57040,,76450,,,"Norwich-New London-Westerly, CT-RI",,Old Lyme town,1,false
+9,011,62150,,76450,,,"Norwich-New London-Westerly, CT-RI",,Preston town,1,false
+9,011,66210,,76450,,,"Norwich-New London-Westerly, CT-RI",,Salem town,1,false
+9,011,71670,,76450,,,"Norwich-New London-Westerly, CT-RI",,Sprague town,1,false
+9,011,73770,,76450,,,"Norwich-New London-Westerly, CT-RI",,Stonington town,1,false
+9,011,78600,,76450,,,"Norwich-New London-Westerly, CT-RI",,Voluntown town,1,false
+9,011,80280,,76450,,,"Norwich-New London-Westerly, CT-RI",,Waterford town,1,false
+9,015,12130,,76450,,,"Norwich-New London-Westerly, CT-RI",,Canterbury town,1,false
 23,011,02100,710,70600,,"Augusta-Waterville, ME","Augusta, ME",,Augusta city,2,false
 23,011,04020,710,70600,,"Augusta-Waterville, ME","Augusta, ME",,Belgrade town,2,false
 23,011,12350,710,70600,,"Augusta-Waterville, ME","Augusta, ME",,Chelsea town,2,false

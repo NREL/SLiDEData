@@ -1,11 +1,11 @@
-aggr_code,disagg_code,aggr_desc,disagg_desc
-befa,bef_agr,"Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming (1121A0)","Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming"
+aggr,disagg,aggr_desc,disagg_desc
+befa,bef_agr,"Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming (1121A0)","Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming (1121A0)"
 con,con,Construction,Construction
-drya,dry_agr,Dairy cattle and milk production (112120),Dairy cattle and milk production
-egga,egg_agr,Poultry and egg production (112300),Poultry and egg production
+drya,dry_agr,Dairy cattle and milk production (112120),Dairy cattle and milk production (112120)
+egga,egg_agr,Poultry and egg production (112300),Poultry and egg production (112300)
 fdp,fbp,Food processing,Food and beverage and tobacco products
-floa,flo_agr,"Greenhouse, nursery, and floriculture production (111400)","Greenhouse, nursery, and floriculture production"
-grna,grn_agr,Grain farming (1111B0),Grain farming
+floa,flo_agr,"Greenhouse, nursery, and floriculture production (111400)","Greenhouse, nursery, and floriculture production (111400)"
+grna,grn_agr,Grain farming (1111B0),Grain farming (1111B0)
 mnf,alt,Manufacturing sectors,Apparel and leather and allied products
 mnf,cep,Manufacturing sectors,Computer and electronic products
 mnf,che,Manufacturing sectors,Chemical products
@@ -28,14 +28,14 @@ mnf,pri,Manufacturing sectors,Printing and related support activities
 mnf,smn,Manufacturing sectors,Support activities for mining
 mnf,tex,Manufacturing sectors,Textile mills and textile product mills
 mnf,wpd,Manufacturing sectors,Wood products
-nuta,nut_agr,Fruit and tree nut farming (111300),Fruit and tree nut farming
-oila,oil_agr,Oilseed farming (1111A0),Oilseed farming
-otaa,ota_agr,"Animal production, except cattle and poultry and eggs (112A00)","Animal production, except cattle and poultry and eggs"
-otha,oth_agr,Other crop farming (111900),Other crop farming
+nuta,nut_agr,Fruit and tree nut farming (111300),Fruit and tree nut farming (111300)
+oila,oil_agr,Oilseed farming (1111A0),Oilseed farming (1111A0)
+otaa,ota_agr,"Animal production, except cattle and poultry and eggs (112A00)","Animal production, except cattle and poultry and eggs (112A00)"
+otha,oth_agr,Other crop farming (111900),Other crop farming (111900)
 roe,fbt,Rest of the economy,Food and beverage stores
-roe,fdd,Rest of the economy,Federal general government
+roe,fdd,Rest of the economy,Federal general government (defense)
 roe,fen,Rest of the economy,Federal government enterprises
-roe,fnd,Rest of the economy,Federal general government
+roe,fnd,Rest of the economy,Federal general government (nondefense)
 roe,gmt,Rest of the economy,General merchandise stores
 roe,mvt,Rest of the economy,Motor vehicle and parts dealers
 roe,oth,Rest of the economy,Noncomparable imports and rest-of-the-world adjustment
@@ -63,7 +63,7 @@ srv,mov,Services,Motion picture and sound recording industries
 srv,nrs,Services,Nursing and residential care facilities
 srv,ore,Services,Other real estate
 srv,osv,Services,"Other services, except government"
-srv,pub,Services,"Publishing industries, except internet"
+srv,pub,Services,"Publishing industries, except internet (includes software)"
 srv,rec,Services,"Amusements, gambling, and recreation industries"
 srv,res,Services,Food services and drinking places
 srv,rnt,Services,Rental and leasing services and lessors of intangible assets
@@ -80,4 +80,4 @@ trn,pip,Transportation,Pipeline transportation
 trn,trk,Transportation,Truck transportation
 trn,trn,Transportation,Rail transportation
 trn,wtt,Transportation,Water transportation
-vega,veg_agr,Vegetable and melon farming (111200),Vegetable and melon farming
+vega,veg_agr,Vegetable and melon farming (111200),Vegetable and melon farming (111200)
