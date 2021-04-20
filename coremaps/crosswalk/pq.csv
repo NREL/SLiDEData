@@ -1,11 +1,16 @@
-pq_code,src_code,units
+pq,src,units
 p,col,us dollars (USD) per million btu
 p,cru,us dollars (USD) per million btu
+p,ele,us dollars (USD) per thousand kilowatthour
 p,gas,us dollars (USD) per million btu
 p,oil,us dollars (USD) per million btu
-p,ele,us dollars (USD) per thousand kilowatthour
-q,ele,billion kilowatthours
 q,col,trillion btu
 q,cru,trillion btu
+q,ele,billion kilowatthours
 q,gas,trillion btu
 q,oil,trillion btu
+v,col,billions of us dollars (USD)
+v,cru,billions of us dollars (USD)
+v,ele,billions of us dollars (USD)
+v,gas,billions of us dollars (USD)
+v,oil,billions of us dollars (USD)

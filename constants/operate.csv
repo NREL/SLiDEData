@@ -1,0 +1,11 @@
+from_units,factor,operation,by_units,units
+trillion btu,1000.0,/,btu per kilowatthour,billion kilowatthours
+billions of us dollars (USD),1000.0,/,trillion btu,us dollars (USD) per million btu
+billions of us dollars (USD),1000.0,/,billion kilowatthours,us dollars (USD) per thousand kilowatthour
+us dollars (USD) per barrel,1.0,/,million btu per barrel,us dollars (USD) per million btu
+us dollars (USD) per million btu,0.001,*,trillion btu,billions of us dollars (USD)
+us dollars (USD) per thousand kilowatthour,0.001,*,billion kilowatthours,billions of us dollars (USD)
+trillion btu,0.001,*,us dollars (USD) per million btu,billions of us dollars (USD)
+billion kilowatthours,0.001,*,us dollars (USD) per thousand kilowatthour,billions of us dollars (USD)
+trillion btu,0.001,*,kilograms CO2 per million btu,million metric tons of carbon dioxide
+kilograms CO2 per million btu,0.001,*,trillion btu,million metric tons of carbon dioxide
