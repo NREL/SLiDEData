@@ -1,7 +1,7 @@
-demsec
-com
-ele
-ind
-ref
-res
-trn
+demsec,desc
+/,ind	Industry
+com,Commercial
+ele,Electricity generation
+ref,Oil refining /
+res,Residential
+trn,Transportation

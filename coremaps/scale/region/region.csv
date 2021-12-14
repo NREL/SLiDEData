@@ -1,52 +1,52 @@
-region,division,state,region_code,division_code,state_code
-northeast,new england,ct,1,1,9
-northeast,new england,me,1,1,23
-northeast,new england,ma,1,1,25
-northeast,new england,nh,1,1,33
-northeast,new england,ri,1,1,44
-northeast,new england,vt,1,1,50
-northeast,middle atlantic,nj,1,2,34
-northeast,middle atlantic,ny,1,2,36
-northeast,middle atlantic,pa,1,2,42
-midwest,east north central,il,2,3,17
-midwest,east north central,in,2,3,18
-midwest,east north central,mi,2,3,26
-midwest,east north central,oh,2,3,39
-midwest,east north central,wi,2,3,55
-midwest,west north central,ia,2,4,19
-midwest,west north central,ks,2,4,20
-midwest,west north central,mn,2,4,27
-midwest,west north central,mo,2,4,29
-midwest,west north central,ne,2,4,31
-midwest,west north central,nd,2,4,38
-midwest,west north central,sd,2,4,46
-south,south atlantic,de,3,5,10
-south,south atlantic,dc,3,5,11
-south,south atlantic,fl,3,5,12
-south,south atlantic,ga,3,5,13
-south,south atlantic,md,3,5,24
-south,south atlantic,nc,3,5,37
-south,south atlantic,sc,3,5,45
-south,south atlantic,va,3,5,51
-south,south atlantic,wv,3,5,54
-south,east south central,al,3,6,1
-south,east south central,ky,3,6,21
-south,east south central,ms,3,6,28
-south,east south central,tn,3,6,47
-south,west south central,ar,3,7,5
-south,west south central,la,3,7,22
-south,west south central,ok,3,7,40
-south,west south central,tx,3,7,48
-west,mountain,az,4,8,4
-west,mountain,co,4,8,8
-west,mountain,id,4,8,16
-west,mountain,mt,4,8,30
-west,mountain,nv,4,8,32
-west,mountain,nm,4,8,35
-west,mountain,ut,4,8,49
-west,mountain,wy,4,8,56
-west,pacific,ak,4,9,2
-west,pacific,ca,4,9,6
-west,pacific,hi,4,9,15
-west,pacific,or,4,9,41
-west,pacific,wa,4,9,53
+region,division,state,region_desc,division_desc,state_desc
+mid,enc,il,midwest,east north central,illinois
+mid,enc,in,midwest,east north central,indiana
+mid,enc,mi,midwest,east north central,michigan
+mid,enc,oh,midwest,east north central,ohio
+mid,enc,wi,midwest,east north central,wisconsin
+mid,wnc,ia,midwest,west north central,iowa
+mid,wnc,ks,midwest,west north central,kansas
+mid,wnc,mn,midwest,west north central,minnesota
+mid,wnc,mo,midwest,west north central,missouri
+mid,wnc,nd,midwest,west north central,north dakota
+mid,wnc,ne,midwest,west north central,nebraska
+mid,wnc,sd,midwest,west north central,south dakota
+nor,mat,nj,northeast,middle atlantic,new jersey
+nor,mat,ny,northeast,middle atlantic,new york
+nor,mat,pa,northeast,middle atlantic,pennsylvania
+nor,nen,ct,northeast,new england,connecticut
+nor,nen,ma,northeast,new england,massachusetts
+nor,nen,me,northeast,new england,maine
+nor,nen,nh,northeast,new england,new hampshire
+nor,nen,ri,northeast,new england,rhode island
+nor,nen,vt,northeast,new england,vermont
+sou,esc,al,south,east south central,alabama
+sou,esc,ky,south,east south central,kentucky
+sou,esc,ms,south,east south central,mississippi
+sou,esc,tn,south,east south central,tennessee
+sou,sat,dc,south,south atlantic,district of columbia
+sou,sat,de,south,south atlantic,delaware
+sou,sat,fl,south,south atlantic,florida
+sou,sat,ga,south,south atlantic,georgia
+sou,sat,md,south,south atlantic,maryland
+sou,sat,nc,south,south atlantic,north carolina
+sou,sat,sc,south,south atlantic,south carolina
+sou,sat,va,south,south atlantic,virginia
+sou,sat,wv,south,south atlantic,west virginia
+sou,wsc,ar,south,west south central,arkansas
+sou,wsc,la,south,west south central,louisiana
+sou,wsc,ok,south,west south central,oklahoma
+sou,wsc,tx,south,west south central,texas
+wes,mnt,az,west,mountain,arizona
+wes,mnt,co,west,mountain,colorado
+wes,mnt,id,west,mountain,idaho
+wes,mnt,mt,west,mountain,montana
+wes,mnt,nm,west,mountain,new mexico
+wes,mnt,nv,west,mountain,nevada
+wes,mnt,ut,west,mountain,utah
+wes,mnt,wy,west,mountain,wyoming
+wes,pac,ak,west,pacific,alaska
+wes,pac,ca,west,pacific,california
+wes,pac,hi,west,pacific,hawaii
+wes,pac,or,west,pacific,oregon
+wes,pac,wa,west,pacific,washington

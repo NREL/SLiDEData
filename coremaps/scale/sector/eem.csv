@@ -2,23 +2,23 @@ aggr,disagg,aggr_desc,disagg_desc
 cng,oil,Crude oil and natural gas extraction,Oil and natural gas extraction
 col,col_min,Coal mining,Coal mining
 con,con,Construction,Construction
-eint,agr,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Farms
-eint,che,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Chemical products
-eint,eec,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),"Electrical equipment, appliances, and components"
-eint,fbp,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Food and beverage and tobacco products
-eint,fmt,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Fabricated metal products
-eint,mch,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Machinery
-eint,min,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Other mining
-eint,mot,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),"Motor vehicles, bodies and trailers, and parts manufacturing"
-eint,nmp,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Nonmetallic mineral products
-eint,pla,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Plastics and rubber products
-eint,pmt,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Primary metals
-eint,ppd,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Paper products
-eint,pri,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Printing and related support activities
-eint,sec,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),"Securities, commodity contracts, and investments"
-eint,tex,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Textile mills and textile product mills
-eint,uti,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Other utilities
-eint,wpd,Energy/Emission intensive sectors (embodied carbon > .5 kg per $),Wood products
+eint,agr,Energy/Emission intensive sectors (embodied carbon >,Farms
+eint,che,Energy/Emission intensive sectors (embodied carbon >,Chemical products
+eint,eec,Energy/Emission intensive sectors (embodied carbon >,"Electrical equipment, appliances, and components"
+eint,fbp,Energy/Emission intensive sectors (embodied carbon >,Food and beverage and tobacco products
+eint,fmt,Energy/Emission intensive sectors (embodied carbon >,Fabricated metal products
+eint,mch,Energy/Emission intensive sectors (embodied carbon >,Machinery
+eint,min,Energy/Emission intensive sectors (embodied carbon >,Other mining
+eint,mot,Energy/Emission intensive sectors (embodied carbon >,"Motor vehicles, bodies and trailers, and parts manufacturing"
+eint,nmp,Energy/Emission intensive sectors (embodied carbon >,Nonmetallic mineral products
+eint,pla,Energy/Emission intensive sectors (embodied carbon >,Plastics and rubber products
+eint,pmt,Energy/Emission intensive sectors (embodied carbon >,Primary metals
+eint,ppd,Energy/Emission intensive sectors (embodied carbon >,Paper products
+eint,pri,Energy/Emission intensive sectors (embodied carbon >,Printing and related support activities
+eint,sec,Energy/Emission intensive sectors (embodied carbon >,"Securities, commodity contracts, and investments"
+eint,tex,Energy/Emission intensive sectors (embodied carbon >,Textile mills and textile product mills
+eint,uti,Energy/Emission intensive sectors (embodied carbon >,Other utilities
+eint,wpd,Energy/Emission intensive sectors (embodied carbon >,Wood products
 ele,ele_uti,"Electric power generation, transmission, and distribution","Electricity generation, transmission, and distribution"
 oil,ref_pet,Petroleum refineries,Petroleum refineries
 omnf,alt,Other manufacturing sectors,Apparel and leather and allied products
@@ -62,11 +62,9 @@ roe,fen,Rest of the economy,Federal government enterprises
 roe,fnd,Rest of the economy,Federal general government (nondefense)
 roe,gmt,Rest of the economy,General merchandise stores
 roe,mvt,Rest of the economy,Motor vehicle and parts dealers
-roe,oth,Rest of the economy,Noncomparable imports and rest-of-the-world adjustment
 roe,ott,Rest of the economy,Other retail
 roe,sle,Rest of the economy,State and local government enterprises
 roe,slg,Rest of the economy,State and local general government
-roe,use,Rest of the economy,"Scrap, used and secondhand goods"
 roe,wht,Rest of the economy,Wholesale trade
 trn,air,Transportation,Air transportation
 trn,grd,Transportation,Transit and ground passenger transportation

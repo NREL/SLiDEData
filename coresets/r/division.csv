@@ -1,10 +1,10 @@
-r
-east north central
-east south central
-middle atlantic
-mountain
-new england
-pacific
-south atlantic
-west north central
-west south central
+r,desc
+enc,east north central
+esc,east south central
+mat,middle atlantic
+mnt,mountain
+nen,new england
+pac,pacific
+sat,south atlantic
+wnc,west north central
+wsc,west south central

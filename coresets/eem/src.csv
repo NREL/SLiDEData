@@ -1,9 +1,9 @@
-src
-col
-gas
-ge
-hy
-nu
-oil
-so
-wy
+src,desc
+col,coal
+gas,natural gas
+ge,geothermal
+hy,hydro
+nu,nuclear
+oil,petroleum
+so,solar
+wy,wind  /

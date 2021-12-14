@@ -1,0 +1,72 @@
+aggr,disagg,aggr_desc,disagg_desc
+agr,agr,Agriculture,Farms
+agr,fof,Agriculture,"Forestry, fishing, and related activities"
+con,con,Construction,Construction
+mfr,alt,Manufacturing,Apparel and leather and allied products
+mfr,cep,Manufacturing,Computer and electronic products
+mfr,che,Manufacturing,Chemical products
+mfr,eec,Manufacturing,"Electrical equipment, appliances, and components"
+mfr,fbp,Manufacturing,Food and beverage and tobacco products
+mfr,fmt,Manufacturing,Fabricated metal products
+mfr,fpd,Manufacturing,Furniture and related products
+mfr,mch,Manufacturing,Machinery
+mfr,min,Manufacturing,Other mining
+mfr,mmf,Manufacturing,Miscellaneous manufacturing
+mfr,mot,Manufacturing,"Motor vehicles, bodies and trailers, and parts manufacturing"
+mfr,nmp,Manufacturing,Nonmetallic mineral products
+mfr,oil,Manufacturing,Oil and gas extraction
+mfr,ote,Manufacturing,Other transportation equipment
+mfr,pet,Manufacturing,Other petroleum based manufacturing
+mfr,pla,Manufacturing,Plastics and rubber products
+mfr,pmt,Manufacturing,Primary metals
+mfr,ppd,Manufacturing,Paper products
+mfr,pri,Manufacturing,Printing and related support activities
+mfr,sec,Manufacturing,"Securities, commodity contracts, and investments"
+mfr,smn,Manufacturing,Support activities for mining
+mfr,tex,Manufacturing,Textile mills and textile product mills
+mfr,wpd,Manufacturing,Wood products
+ser,adm,Services,Administrative and support services
+ser,amb,Services,Ambulatory health care services
+ser,amd,Services,Accommodation
+ser,art,Services,"Performing arts, spectator sports, museums, and related activit"
+ser,bnk,Services,"Federal Reserve banks, credit intermediation, and related activ"
+ser,brd,Services,Broadcasting and telecommunications
+ser,com,Services,Computer systems design and related services
+ser,dat,Services,"Data processing, internet publishing, and other information"
+ser,edu,Services,Educational services
+ser,fbt,Services,Food and beverage stores
+ser,fdd,Services,Federal general government (defense)
+ser,fen,Services,Federal government enterprises
+ser,fin,Services,"Funds, trusts, and other financial vehicles"
+ser,fnd,Services,Federal general government (nondefense)
+ser,gmt,Services,General merchandise stores
+ser,hos,Services,Hospitals
+ser,hou,Services,Housing
+ser,ins,Services,Insurance carriers and related activities
+ser,leg,Services,Legal services
+ser,man,Services,Management of companies and enterprises
+ser,mov,Services,Motion picture and sound recording industries
+ser,mvt,Services,Motor vehicle and parts dealers
+ser,nrs,Services,Nursing and residential care facilities
+ser,ore,Services,Other real estate
+ser,osv,Services,"Other services, except government"
+ser,ott,Services,Other retail
+ser,pub,Services,"Publishing industries, except internet (includes software)"
+ser,rec,Services,"Amusements, gambling, and recreation industries"
+ser,res,Services,Food services and drinking places
+ser,rnt,Services,Rental and leasing services and lessors of intangible assets
+ser,sle,Services,State and local government enterprises
+ser,slg,Services,State and local general government
+ser,soc,Services,Social assistance
+ser,tsv,Services,"Miscellaneous professional, scientific, and technical services"
+ser,uti,Services,Other utilities
+ser,wht,Services,Wholesale trade
+ser,wrh,Services,Warehousing and storage
+ser,wst,Services,Waste management and remediation services
+trn,air,Transportation,Air transportation
+trn,grd,Transportation,Transit and ground passenger transportation
+trn,otr,Transportation,Other transportation and support activities
+trn,pip,Transportation,Pipeline transportation
+trn,trk,Transportation,Truck transportation
+trn,trn,Transportation,Rail transportation
+trn,wtt,Transportation,Water transportation

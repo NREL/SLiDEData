@@ -1,6 +1,6 @@
-sec
-com
-ele
-ind
-res
-trn
+sec,desc
+com,Commercial sector
+ele,Electric power sector /
+ind,Industrial sector
+res,Residential sector
+trn,Transportation sector
